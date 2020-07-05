@@ -1,0 +1,2 @@
+# Big-Mart-Sales-Prediction
+Forecasting/Predictive model of different products at a store belonging to Big Mart. The data contains sales data for 1559 products across 10 different stores. The dataset can be found at https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/. The prediction is done based on Linear Regression (also includes Lasso and Ridge for different alpha values) and Random Forest.
